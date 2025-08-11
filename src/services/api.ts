@@ -1,0 +1,1 @@
+export const apiBase = '/api';export async function fetchPlans(){const r=await fetch(apiBase+'/plans');return r.ok?await r.json():null;}
