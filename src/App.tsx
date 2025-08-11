@@ -1,0 +1,1 @@
+import React from 'react';export default function App(){return (<div>FitTrack Client - connect to /api/plans</div>);}
