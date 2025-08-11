@@ -1,0 +1,1 @@
+public class AIPlanner:IAIPlanner{public string GeneratePlan(string userProfileJson){return "{\"plan\":\"stub plan based on profile\"}";}}
