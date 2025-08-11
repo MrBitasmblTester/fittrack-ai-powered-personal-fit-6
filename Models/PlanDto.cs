@@ -1,0 +1,1 @@
+public class PlanDto{public string PlanJson {get;set;} public string GeneratedAt {get;set;} }
