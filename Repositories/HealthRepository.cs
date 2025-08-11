@@ -1,0 +1,1 @@
+public class HealthRepository{private readonly HealthDbContext _db;public HealthRepository(HealthDbContext db){_db=db;}public void AddSample(object s){ /* persist sample */ }} 
