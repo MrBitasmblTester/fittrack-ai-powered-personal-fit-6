@@ -1,0 +1,1 @@
+public interface IAIPlanner{string GeneratePlan(string userProfileJson);}
