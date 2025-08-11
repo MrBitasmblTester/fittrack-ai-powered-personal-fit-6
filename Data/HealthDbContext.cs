@@ -1,0 +1,1 @@
+using Microsoft.EntityFrameworkCore;public class HealthDbContext:DbContext{public HealthDbContext(DbContextOptions<HealthDbContext>o):base(o){}public DbSet<object> HealthSamples {get;set;} public DbSet<object> UserProfiles {get;set;} }
